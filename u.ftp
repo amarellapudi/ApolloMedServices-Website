@@ -1,6 +1,6 @@
-open 37.60.253.226
-apollome
-Aniruddh.123
+open (IP.Address.Here)
+(Host Username)
+(Host Password)
 lcd /D "C:\Users\Aniruddh\Desktop\Website\public_html\"
 cd  public_html
 binary
