@@ -1,2 +1,3 @@
-# ApolloMedServices_Website
-Website for Apollo Medical Services clinics
+# ApolloMedServices-Website
+
+Professional website for the Apollo Medical Services clinics.
