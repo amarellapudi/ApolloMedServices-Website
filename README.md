@@ -9,10 +9,10 @@ The following links helped me put together the email form.<br>
 https://www.youtube.com/watch?v=tJ5eUgOxITE<br>
 http://form.guide/email-form/php-form-to-email.html
 
-Highlights:<br>
+Highlights:
 - Responsive, works on mobile and desktop
 - PHP email form
 - Google Maps location information
   
-Bugs:<br>
+Bugs:
 - Footer not always on the bottom of the screen (especially with larger displays)
