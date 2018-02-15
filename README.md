@@ -1,8 +1,6 @@
 # ApolloMedServices-Website
 
-Made a professional website for the Apollo Medical Services clinics.
-
-This was my first exposure to HTML/CSS. The following YouTube video was extremely helpful for some of the crucial basics.
+Made a professional website for the Apollo Medical Services clinics. This was my first exposure to HTML/CSS. The following YouTube video was extremely helpful for some of the crucial basics.
 - https://www.youtube.com/watch?v=Wm6CUkswsNw&t=2681s
 
 The following links helped me put together the email form.
