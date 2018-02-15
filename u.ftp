@@ -1,0 +1,11 @@
+open 37.60.253.226
+apollome
+Aniruddh.123
+lcd /D "C:\Users\Aniruddh\Desktop\Website\public_html\"
+cd  public_html
+binary
+put C:\Users\Aniruddh\Desktop\Website\public_html\index.html
+put C:\Users\Aniruddh\Desktop\Website\public_html\about_us.php
+put C:\Users\Aniruddh\Desktop\Website\public_html\locations.html
+put C:\Users\Aniruddh\Desktop\Website\public_html\services_insurances.html
+put C:\Users\Aniruddh\Desktop\Website\public_html\style.css
